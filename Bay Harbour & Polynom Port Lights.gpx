@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<OCPNDraw version="0.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opencpn="http://www.opencpn.org">
+  <opencpn:ODPoint lat="32.831673554" lon="35.023494888">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-14T14:36:03Z</time>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Starboard-ILALA-B-Lighted</sym>
+    <opencpn:guid>66c0ffff-20d8-4cb2-b790-933f05e80000</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.837000000" lon="35.023833333">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-13T17:01:50Z</time>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Port-Hand-ILALA-A-Lighted</sym>
+    <opencpn:guid>60cbffff-7d94-4d05-be32-d7657ab5ffff</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.832666667" lon="35.023000000">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-13T17:00:56Z</time>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Starboard-ILALA-B-Lighted</sym>
+    <opencpn:guid>2f8a0000-98b1-414e-8ed7-cea558bfffff</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.834000000" lon="35.020166667">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-13T16:30:23Z</time>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Port-Hand-ILALA-B-Lighted</sym>
+    <opencpn:guid>3b4c0000-350c-4725-b1f2-82bd4f5cffff</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.837000000" lon="35.018333333">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-13T16:27:49Z</time>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Port-Hand-ILALA-B-Lighted</sym>
+    <opencpn:guid>257d0000-2916-47fb-9641-b171472bffff</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.835333333" lon="35.019000000">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-13T16:15:32Z</time>
+    <name>Breakwater Pt</name>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Starboard-Hand-ILALA-A-Lighted</sym>
+    <opencpn:guid>1eca0000-4c32-404b-b2c9-3b0c3c140000</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.833500000" lon="34.999833333">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-14T15:21:22Z</time>
+    <name>Polynom Breakwater</name>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Starboard-Hand-ILALA-A-Lighted</sym>
+    <opencpn:guid>2ea40000-44ac-4223-94ea-754040c8ffff</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+  <opencpn:ODPoint lat="32.831833333" lon="34.998666667">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2017-12-14T15:21:24Z</time>
+    <name>Polynom Port Light</name>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Marks-Lateral-Starboard-ILALA-B-Lighted</sym>
+    <opencpn:guid>51acffff-0632-4002-bb83-ea7502d50000</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.000</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+</OCPNDraw>

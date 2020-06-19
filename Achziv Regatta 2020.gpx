@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>Achziv Regatta 2020</name>
+    <extensions>
+      <opencpn:guid>3d220000-4738-4f78-a924-779c51a0ffff</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:planned_speed>6.00</opencpn:planned_speed>
+      <opencpn:planned_departure>2020-06-04T17:29:42Z</opencpn:planned_departure>
+      <opencpn:time_display>PC</opencpn:time_display>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="32.833100702" lon="35.009726819">
+      <time>2020-06-04T17:28:58Z</time>
+      <name>001</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>0bc70000-234a-4b14-a473-90a3387e0000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="32.920793992" lon="35.037538016">
+      <time>2020-06-04T17:29:03Z</time>
+      <name>002</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>196d0000-630a-4029-bc78-ef8b634cffff</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="33.009517695" lon="35.071677509">
+      <time>2020-06-04T17:29:08Z</time>
+      <name>003</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>04f70000-c54b-4128-b75e-7b1e19010000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="33.047076132" lon="35.090495864">
+      <time>2020-06-04T17:29:15Z</time>
+      <name>004</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>5ad8ffff-f90d-4ca5-9d40-bd332b8f0000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="33.050000000" lon="35.086666667">
+      <time>2017-04-29T20:27:34Z</time>
+      <name>Achziv Turning point</name>
+      <desc>Dakar Achziv Regatta  Achziv turning waypoint</desc>
+      <link href="https://cyc.co.il/events/dakar2020/">
+        <text>Regatta page</text>
+      </link>
+      <sym>triangle</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>2f9d0000-94c7-4e95-ac5b-292a7992ffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="33.048053276" lon="35.082002624">
+      <time>2020-06-04T17:29:20Z</time>
+      <name>006</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>1fd40000-d713-4d0d-b141-aaf314bd0000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="33.038839779" lon="35.075840862">
+      <time>2020-06-04T17:29:24Z</time>
+      <name>007</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>0d570000-eb67-4588-96f7-7e200ba50000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+    <rtept lat="32.836179128" lon="35.022216878">
+      <time>2020-06-04T17:29:34Z</time>
+      <name>008</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>1a410000-7064-4667-8ee0-4d606c8fffff</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+        <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
