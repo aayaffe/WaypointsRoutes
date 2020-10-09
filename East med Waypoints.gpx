@@ -10,105 +10,32 @@
       <opencpn:guid>59dcffff-0b18-455c-8cd1-42360b2e0000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="32.921666667" lon="35.050000000">
-    <time>2020-05-24T20:37:17Z</time>
-    <name>Acco E</name>
-    <desc>Dakar Achziv Regatta  Acco East gate</desc>
-    <link href="https://cyc.co.il/dakar2020">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>30f00000-476c-477f-8e1c-ae954106ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
-  <wpt lat="32.921666667" lon="35.025000000">
-    <time>2020-05-24T20:37:43Z</time>
-    <name>Acco W</name>
-    <desc>Dakar Achziv Regatta  Acco West gate</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>31570000-3314-40f4-9853-8fab2fd30000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
-  <wpt lat="32.918584310" lon="35.071317190">
+  <wpt lat="32.918585000" lon="35.071316667">
     <time>2011-12-24T19:52:25Z</time>
     <name>AccoExit</name>
     <desc>Acco Entrance</desc>
-    <sym>City (Small)</sym>
+    <sym>Service-Marina</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>4c9affff-f381-4971-af9e-da456bd2ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="32.837166667" lon="35.024666667">
-    <time>2020-06-04T17:27:22Z</time>
-    <name>Achziv Finish Port</name>
-    <desc>Dakar Achziv Regatta  Finish line PORT</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>075a0000-e77b-4cde-b1b5-373012800000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
-  <wpt lat="32.837166667" lon="35.020000000">
-    <time>2020-06-04T17:26:20Z</time>
-    <name>Achziv Finish STBD</name>
-    <desc>Dakar Achziv Regatta  Finish line STBD</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>329c0000-264e-48a5-b7b3-026c725bffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
-  <wpt lat="33.050000000" lon="35.086666667">
+  <wpt lat="33.050000000" lon="35.085000000">
     <time>2017-04-29T20:27:34Z</time>
-    <name>Achziv Turning point</name>
-    <desc>Dakar Achziv Regatta  Achziv turning waypoint</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
+    <name>Achziv Turn point</name>
+    <sym>Marks-Race-Tetrahedron-Mark1</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>2f9d0000-94c7-4e95-ac5b-292a7992ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:shared>1</opencpn:shared>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
@@ -140,19 +67,18 @@
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="31.799034540" lon="34.626482680">
+  <wpt lat="31.799035000" lon="34.626483333">
     <time>2011-12-24T20:04:40Z</time>
     <name>AshdodExit</name>
     <desc>Ashdod Marina Entrance</desc>
-    <sym>City (Small)</sym>
+    <sym>Service-Marina</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>492affff-bbf1-4dfd-9d2a-f3bb58d1ffff</opencpn:guid>
-      <opencpn:viz>0</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:shared>1</opencpn:shared>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -160,14 +86,14 @@
     <time>2011-12-24T20:05:05Z</time>
     <name>AshkelonExit</name>
     <desc>Ashkelon Marine Entrance</desc>
-    <sym>Red Flag Bouy</sym>
+    <sym>Service-Marina</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>70d2ffff-6cd0-409f-91db-ed637d9cffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FFFFFF" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="31.696955720" lon="34.536356370">
@@ -179,63 +105,63 @@
       <opencpn:guid>5b25ffff-5b44-4e25-a203-8f8f1ad40000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="31.893765490" lon="34.574966000">
+  <wpt lat="31.893765000" lon="34.574966667">
     <time>2011-12-24T20:03:11Z</time>
     <name>DagimE</name>
     <desc>Ashdod Cages East</desc>
-    <sym>City (Small)</sym>
+    <sym>Marks-Cardinal-East</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>11f60000-6d8a-4f0c-8d0c-b0df672fffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="31.921525520" lon="34.553561630">
+  <wpt lat="31.921525000" lon="34.553561667">
     <time>2011-12-24T20:03:02Z</time>
     <name>DagimN</name>
     <desc>Ashdod Cages North</desc>
-    <sym>City (Small)</sym>
+    <sym>Marks-Cardinal-Nord</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>5393ffff-eea3-48f2-bfa2-192e00960000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="31.878620130" lon="34.563669250">
+  <wpt lat="31.878620000" lon="34.563670000">
     <time>2011-12-24T20:03:08Z</time>
     <name>DagimS</name>
     <desc>Ashdod Cages South</desc>
-    <sym>City (Small)</sym>
+    <sym>Marks-Cardinal-South</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>6358ffff-beab-489d-8ea9-54383eb30000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="31.892924150" lon="34.528193470">
+  <wpt lat="31.892923333" lon="34.528193333">
     <time>2011-12-24T20:03:05Z</time>
     <name>DaginW</name>
     <desc>Ashdod Cages W</desc>
-    <sym>City (Small)</sym>
+    <sym>Marks-Cardinal-West</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>33f00000-5e1a-494d-b751-f9b94834ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -263,7 +189,7 @@
       <opencpn:guid>37690000-3f94-4b69-b03b-ea8d13910000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -277,7 +203,7 @@
       <opencpn:guid>25460000-9ab9-4649-85fd-7a100d110000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -291,20 +217,7 @@
       <opencpn:guid>19840000-dfe9-49f7-b312-ee530bf10000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
-  <wpt lat="32.843066667" lon="35.016916667">
-    <time>2018-03-20T21:49:06Z</time>
-    <name>Haifa1</name>
-    <sym>RGR Cyl</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>292c0000-1a4a-48e2-87d1-ac5305a30000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -315,7 +228,6 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>70baffff-76e8-4dbc-af37-01783c820000</opencpn:guid>
-      <opencpn:viz>0</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:shared>1</opencpn:shared>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
@@ -323,15 +235,27 @@
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="32.166543056" lon="34.793171667">
+  <wpt lat="32.733888889" lon="34.893611111">
+    <time>2020-08-14T19:37:31Z</time>
+    <name>Heker Yamim Buoy</name>
+    <sym>bouy1</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6942ffff-5738-44c2-8aa9-a93770a1ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="32.166543333" lon="34.793171667">
     <time>2011-12-24T19:59:16Z</time>
     <name>HerzeliyaExit</name>
     <desc>Herzeliya Entrance</desc>
-    <sym>circle</sym>
+    <sym>Service-Marina</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>4d9dffff-7710-4e57-bd30-b5a94555ffff</opencpn:guid>
-      <opencpn:viz>0</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:shared>1</opencpn:shared>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
@@ -363,7 +287,7 @@
       <opencpn:guid>162a0000-a327-4e4d-99bc-fecb5bfaffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -377,7 +301,7 @@
       <opencpn:guid>07ca0000-f9cb-48d6-8f25-8bd91d490000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -391,7 +315,7 @@
       <opencpn:guid>02cb0000-2cea-4428-a3ce-c36b0b750000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -405,14 +329,14 @@
       <opencpn:guid>28630000-2218-4d89-b566-260806c20000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="34.919020000" lon="33.644733333">
     <time>2017-04-08T22:19:01Z</time>
     <name>LarnacaExit</name>
-    <sym>triangle</sym>
+    <sym>Service-Marina</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>1ee60000-c7cd-4a4d-b846-666429e50000</opencpn:guid>
@@ -459,7 +383,7 @@
       <opencpn:guid>39350000-6964-4665-843a-795871e9ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -473,38 +397,30 @@
       <opencpn:guid>7d39ffff-3aa0-4442-bd93-45680e3c0000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="33.010000000" lon="35.083333333">
-    <time>2020-05-24T20:38:09Z</time>
-    <name>Nahariya E</name>
-    <desc>Dakar Achziv Regatta  Nahariya East gate</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
+  <wpt lat="33.034960000" lon="34.944716667">
+    <time>2017-08-22T21:32:00Z</time>
+    <name>Monitoring station</name>
+    <sym>bouy1</sym>
     <type>WPT</type>
     <extensions>
-      <opencpn:guid>3ec00000-a56b-489f-af61-87ed18dd0000</opencpn:guid>
+      <opencpn:guid>675affff-a07b-4a43-a6c4-1c5466c6ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="33.010000000" lon="35.058333333">
-    <time>2020-06-02T21:01:47Z</time>
-    <name>Nahariya W</name>
-    <desc>Dakar Achziv Regatta  Nahariya West gate</desc>
-    <link href="https://cyc.co.il/events/dakar2020/">
-      <text>Regatta page</text>
-    </link>
-    <sym>triangle</sym>
+  <wpt lat="32.994000000" lon="35.020472222">
+    <time>2020-08-14T19:35:59Z</time>
+    <name>Nahariya Buoy</name>
+    <sym>bouy1</sym>
     <type>WPT</type>
     <extensions>
-      <opencpn:guid>595fffff-b8cb-47e8-addd-54526891ffff</opencpn:guid>
+      <opencpn:guid>149c0000-2db4-4603-ab0f-4498334f0000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
@@ -521,7 +437,7 @@
       <opencpn:guid>4446ffff-0fd8-4a24-be7b-68ee5de9ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -805,22 +721,6 @@ NOTM 122/2019</desc>
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
-  <wpt lat="33.039820000" lon="34.947150000">
-    <time>2017-08-22T21:32:00Z</time>
-    <name>Research Buoy</name>
-    <desc>NOTM 114/2020
-Characteristic of buoy: Yellow buoy radius of 2.5 meters height of 3 meters
-above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
-    <sym>bouy1</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>675affff-a07b-4a43-a6c4-1c5466c6ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
-    </extensions>
-  </wpt>
   <wpt lat="32.109819580" lon="34.758241000">
     <time>2011-12-24T19:59:50Z</time>
     <name>RidingBuey</name>
@@ -830,7 +730,7 @@ above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
       <opencpn:guid>515cffff-cb33-4e37-a4e3-b93f0df80000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -857,7 +757,7 @@ above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
       <opencpn:guid>5c34ffff-d4bf-4c4a-9a82-ff5d6065ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -871,7 +771,7 @@ above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
       <opencpn:guid>01a00000-fa11-4dad-8971-9fd313760000</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -885,7 +785,7 @@ above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
       <opencpn:guid>06820000-5054-4f6f-893e-daf960aeffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -899,7 +799,7 @@ above sea level Fl Y every 4 seconds. MMSI 244010235</desc>
       <opencpn:guid>272b0000-4710-443d-b472-b88957d4ffff</opencpn:guid>
       <opencpn:viz_name>1</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
       <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
     </extensions>
   </wpt>
@@ -921,7 +821,7 @@ NOTM 79/2019</desc>
   <wpt lat="34.896573333" lon="33.658091667">
     <time>2017-04-08T22:25:10Z</time>
     <name>Zenobia</name>
-    <sym>East_Cardinal</sym>
+    <sym>wreck1</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>29d90000-943b-4f65-ac9f-113620360000</opencpn:guid>
