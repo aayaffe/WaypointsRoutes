@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="32.921666667" lon="35.050000000">
+    <time>2020-05-24T20:37:17Z</time>
+    <name>Acco E</name>
+    <desc>Dakar Achziv Regatta  Acco East gate</desc>
+    <link href="https://cyc.co.il/dakar2020">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>30f00000-476c-477f-8e1c-ae954106ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="32.921666667" lon="35.025000000">
+    <time>2020-05-24T20:37:43Z</time>
+    <name>Acco W</name>
+    <desc>Dakar Achziv Regatta  Acco West gate</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>31570000-3314-40f4-9853-8fab2fd30000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="32.837166667" lon="35.024666667">
+    <time>2020-06-04T17:27:22Z</time>
+    <name>Achziv Finish Port</name>
+    <desc>Dakar Achziv Regatta  Finish line PORT</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>075a0000-e77b-4cde-b1b5-373012800000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="32.837166667" lon="35.020000000">
+    <time>2020-06-04T17:26:20Z</time>
+    <name>Achziv Finish STBD</name>
+    <desc>Dakar Achziv Regatta  Finish line STBD</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>329c0000-264e-48a5-b7b3-026c725bffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="33.050000000" lon="35.086666667">
+    <time>2017-04-29T20:27:34Z</time>
+    <name>Achziv Turning point</name>
+    <desc>Dakar Achziv Regatta  Achziv turning waypoint</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2f9d0000-94c7-4e95-ac5b-292a7992ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="33.010000000" lon="35.083333333">
+    <time>2020-05-24T20:38:09Z</time>
+    <name>Nahariya E</name>
+    <desc>Dakar Achziv Regatta  Nahariya East gate</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3ec00000-a56b-489f-af61-87ed18dd0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="33.010000000" lon="35.058333333">
+    <time>2020-06-02T21:01:47Z</time>
+    <name>Nahariya W</name>
+    <desc>Dakar Achziv Regatta  Nahariya West gate</desc>
+    <link href="https://cyc.co.il/events/dakar2020/">
+      <text>Regatta page</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>595fffff-b8cb-47e8-addd-54526891ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+</gpx>
